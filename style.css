@@ -1,6 +1,11 @@
-body {
-  background-image: url("https://i0.wp.com/sneakersbr.co/wp-content/uploads/2016/02/nike-copa-1.jpg?resize=1600%2C1060");
-  background-size: cover;
-  background-position: center;
+:root {
+    --cor-de-fundo:var(--cor-de-fundo);
 }
-  
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: #87CEEB;
+}
