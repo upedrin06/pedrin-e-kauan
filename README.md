@@ -1,2 +1,2 @@
-# pedrin-e-kauan
+# pedrin
 loja do pedrin
